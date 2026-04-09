@@ -1,14 +1,16 @@
-# Business Dashboard
+# Client Onboarding Agent
 
-Central visibility dashboard for tracking business metrics (revenue, clients, pipeline, content performance, etc.).
+AI agent that automates new client onboarding end-to-end — welcome sequences, document collection, scheduling, and status tracking.
 
 **Status:** Planning
 **Purpose:** Upwork portfolio showcase project
 
 ## Key Dates
+
 - Started: 2026-03-28
 - Target completion: TBD
 
 ## Notes
-- To be built using Claude Code and Google Sheets/Docs (free tier)
-- Will demonstrate ability to build practical business intelligence tooling for clients
+
+- Built using Claude Code and Google integrations (Gmail, Calendar, Docs)
+- Demonstrates ability to automate the full client onboarding workflow for service businesses
