@@ -1,0 +1,5 @@
+
+# Local agent scaffolding and private business context -- never publish
+.agents/
+.claude/
+HANDOFF.md
